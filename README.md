@@ -26,6 +26,4 @@ This repository contains my Data Analytics projects completed using Python and d
 - Data Visualization
 - Machine Learning
 
-## Author
 
-Batchu Rajeswari
