@@ -1,30 +1,31 @@
 # Sales-Data-Analysis
 
-## Project Description
+This repository contains my Data Analytics projects completed using Python and data analysis techniques.
 
-This project analyzes a small sales dataset to understand sales performance using basic data analysis and visualization techniques.
+## Project 1 – Sales Data Analysis
 
-## Objectives
+- Analyzed sales data using Python.
+- Performed data cleaning and basic data analysis.
+- Created visualizations such as bar charts.
+- Tools: Python, Pandas, Matplotlib.
 
-- Analyze sales data
-- Perform basic data cleaning
-- Calculate basic statistics
-- Understand sales patterns
-- Create visualizations such as bar charts
+## Project 2 – Linear Regression
 
-## Tools Used
+- Built a Linear Regression model using Python.
+- Performed data preprocessing and analysis.
+- Trained the model and evaluated its predictions.
+- Tools: Python, Pandas, Matplotlib, Scikit-learn.
 
-- Microsoft Excel
+## Skills Used
+
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn
 - Data Analysis
 - Data Visualization
+- Machine Learning
 
-## Skills
+## Author
 
-- Data cleaning
-- Basic statistics
-- Data analysis
-- Data visualization
-
-## Project Outcome
-
-The analysis provides insights into sales data using descriptive statistics and visualizations.
+Batchu Rajeswari
